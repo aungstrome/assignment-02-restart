@@ -194,6 +194,12 @@
    .social-icons{
        margin-left: 14px;
    }
+   .fab{
+    padding: 5px;
+    font-size: 1.5em;
+    color: #969BAB;
+    }
+
    footer p{
        font-size: 18px;
        font-weight: 400;
@@ -283,7 +289,9 @@
 
     .fab{
         padding: 5px;
-    }
+        font-size: 1.2em;
+        color: #969BAB;
+        }
 
     #copyright{
         font-size: 1em;
