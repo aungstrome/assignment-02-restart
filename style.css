@@ -259,7 +259,6 @@
     }
     .video-container{
         grid-template-columns: repeat(1,1fr);
-        /* grid-gap: 0; */
     } 
     .extra-container{
         flex-direction: column;
